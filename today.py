@@ -42,7 +42,6 @@ INFO = [  # (key, value). None = blank line. ("#", "Title") = section rule.
     ("FYP", "BirdSense - bird calls on RPi 5"),
     ("Optimizer", "AeroEvolve - GA flight scheduler"),
     ("#", "Contact"),
-    ("Email", "you@example.com"),
     ("LinkedIn", "linkedin.com/in/azrainshawn"),
 ]
 
