@@ -23,11 +23,23 @@
   "dele": 0,
   "head": "442d30ed2b842f2dac38e691d053241bf60f30cc"
  },
+ "azrainnn/Iris-Classification": {
+  "add": 332,
+  "commits": 13,
+  "dele": 12,
+  "head": "3c40f95167928f68b9c8883997d511967c1834cd"
+ },
+ "azrainnn/Machine-Learning-Labs": {
+  "add": 77452,
+  "commits": 3,
+  "dele": 38726,
+  "head": "fe8e3ef0b6db88bae52613b52283ff709612ed75"
+ },
  "azrainnn/azrainnn": {
   "add": 553,
   "commits": 6,
   "dele": 4,
-  "head": "b30a37598ebf3e30cce74cdd97ed9535c5cf75e6"
+  "head": "d36abd1a37518711de3f217c2773af114f8c5cb9"
  },
  "azrainnn/birdsense_codex": {
   "add": 0,
@@ -40,12 +52,6 @@
   "commits": 24,
   "dele": 994,
   "head": "b332b727993ef49f6dff49b97e1eb6a566de3dbe"
- },
- "azrainnn/machine-learning-labs": {
-  "add": 38730,
-  "commits": 1,
-  "dele": 0,
-  "head": "930216d2afc9baf4d0a8975afeb067bd6bf838f2"
  },
  "luhouyang/GitWorkshop": {
   "add": 0,
