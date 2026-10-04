@@ -120,7 +120,7 @@ def repo_loc(name_with_owner, author_id):
     q = """query($owner:String!,$name:String!,$id:ID!,$cursor:String){
       repository(owner:$owner,name:$name){ defaultBranchRef{ target{ ... on Commit{
         history(first:100, after:$cursor, author:{id:$id}){
-          pageInfo{hasNextPage endCursor} nodes{ additions deletions } } } } } }"""
+                   pageInfo{hasNextPage endCursor} nodes{ additions deletions } } } } } } }"""
     cursor, add, dele, commits = None, 0, 0, 0
     while True:
         repo = gql(q, owner=owner, name=name, id=author_id, cursor=cursor)["repository"]
