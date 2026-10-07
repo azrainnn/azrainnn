@@ -37,7 +37,7 @@
 <text x="473" y="30" fill="#24302a">
 <tspan x="473" y="30"><tspan class="key">azrain shawn!</tspan> <tspan class="dots">----------------------------------------------</tspan></tspan>
 <tspan x="473" y="50">. <tspan class="key">OS</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">Windows 11, Raspberry Pi OS, Ubuntu</tspan></tspan>
-<tspan x="473" y="70">. <tspan class="key">Uptime</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">22 years, 1 month, 26 days</tspan></tspan>
+<tspan x="473" y="70">. <tspan class="key">Uptime</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">22 years, 1 month, 27 days</tspan></tspan>
 <tspan x="473" y="90">. <tspan class="key">Host</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">Universiti Teknologi PETRONAS</tspan></tspan>
 <tspan x="473" y="110">. <tspan class="key">Kernel</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">B.CS (Hons.) Data Analytics</tspan></tspan>
 <tspan x="473" y="130">. <tspan class="key">IDE</tspan>:<tspan class="dots"> ....................... </tspan><tspan class="value">VS Code, Antigravity, Jupyter</tspan></tspan>
@@ -59,6 +59,6 @@
 <tspan x="473" y="450"></tspan>
 <tspan x="473" y="470">- GitHub Stats <tspan class="dots">---------------------------------------------</tspan></tspan>
 <tspan x="473" y="490">. <tspan class="key">Repos</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">9 {Contributed: 10}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="473" y="510">. <tspan class="key">Commits</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">96</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ......... </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="473" y="530">. <tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> .. </tspan><tspan class="value">86,305</tspan> ( <tspan class="add">127,785++</tspan>, <tspan class="dele">41,480--</tspan> )</tspan>
+<tspan x="473" y="510">. <tspan class="key">Commits</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">97</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> ......... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="473" y="530">. <tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> .. </tspan><tspan class="value">87,288</tspan> ( <tspan class="add">128,902++</tspan>, <tspan class="dele">41,614--</tspan> )</tspan>
 </text></svg>
